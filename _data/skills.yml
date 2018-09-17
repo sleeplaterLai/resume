@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
+- skill: Language Skills
+  description: <ul class="resume-item-list"><li>TOEFL: 102 (R27+L29+S20+W26)</li><li>GRE: 3.0+155+168</li></ul>
+  
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Computer Skills
+  description: <ul class="resume-item-list"><li>MATLAB</li><li>C++</li><li>cern root</li></ul>
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Leisure
+  description: <ul class="resume-item-list"><li>Ping-Pong ball</li><li>Badminton</li><li>Running</li></ul>
