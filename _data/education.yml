@@ -2,6 +2,7 @@
 - degree: Candidate for Bachelor of Physics
   uni: Shanghai Jiao Tong University, Shanghai, China
   year: 2015 &mdash; 2019
-  awards:
-    - award: GPA: 0.0/4.3
+  summary: <ul class="resume-item-list"><li>GPA: 0.0/4.3</li></ul>
+#  awards:
+#    - award: GPA: 0.0/4.3
 #    - award: ranking:  48/47
