@@ -1,30 +1,32 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Library student management committee
+- organization: Library student management committee, Shanghai Jiao Tong University
   role: Student librarian
   year: 2015 &mdash; Present
   url: http://xgh.lib.sjtu.edu.cn/home/
-  summary: Participate in daily service work in the library.
+  summary: Participate in the daily service of the library for 3 years.
 
 
-- organization: Student' Union of School of Physics and Astronomy
+- organization: Student' Union of School of Physics and Astronomy, Shanghai Jiao Tong University
   role: Academic minister
   year: 2016 &mdash; 2017
   #url: http://campuspress.yale.edu/amnesty/
-  summary: When I was the academic minister of the Student' Union of School of Physics and Astronomy, I was responsible for the "study counseling" of the college. It helped students who have difficulties in study and encouraged them to participate in learning activities.
+  summary: <ul class="resume-item-list"><li>Managed the “study counseling” program of the college, which helped students who have difficulties in study and encouraged them to participate in learning activities.</li><li>Organized 2 academic lectures per semester.</li></ul>
+  #When I was the academic minister of the Student' Union of School of Physics and Astronomy, I was responsible for the "study counseling" of the college. It helped students who have difficulties in study and encouraged them to participate in learning activities.
   #During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
 
 
-- organization: SJTU Physics Association
-  role: President
+- organization: Physics Association, Shanghai Jiao Tong University
+  role: Association chair
   year: 2016 &mdash; 2017
   #url: http://xgh.lib.sjtu.edu.cn/home/
-  summary: In my serving as president of the Physics Association, many popular science lectures were held.
+  summary: <ul class="resume-item-list"><li>Hosted activities to spark interest in physics among association members.</li><li>Collaborated with Physical demonstration hall to promote interest in physics for people off campus.</li></ul>
 
 
 - organization: 2016 SJTU summer social practice
   role: Team member
   year: 2016
   #url: http://xgh.lib.sjtu.edu.cn/home/
-  summary: Our topic is to explore the development of the photovoltaic industry, and won the excellence award. At the same time, I participated in the "Help Flight Plan" of SJTU, and went back to my hometown to help students who had just received the admission to adapt to the life of SJTU in advance, and got excellent team members fellowship.
+  summary: <ul class="resume-item-list"><li>Explored the development of the photovoltaic industry in China, and won the excellence award.</li><li>Participated in the "Help Flight Plan" of SJTU, went back to my hometown to help students who had just received the admission to adapt to the life of SJTU in advance, and got excellent team members fellowship.</li></ul>
+  #Our topic is to explore the development of the photovoltaic industry, and won the excellence award. At the same time, I participated in the "Help Flight Plan" of SJTU, and went back to my hometown to help students who had just received the admission to adapt to the life of SJTU in advance, and got excellent team members fellowship.
