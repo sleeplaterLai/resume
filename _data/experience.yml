@@ -1,30 +1,32 @@
 # Jobs
 # VP of Global Communications
-- company: Nanophotonics Group, Optics Science & Engineering Research Center, Shanghai Jiao Tong University 
+- company: State Key Laboratory of Advanced Optical Communication Systems and Networks, Shanghai Jiao Tong University 
 #  position: VP of Global Communications
   duration: Mar, 2018 &mdash; Present
   #summary: How to obtain a wide response area in photodetector has been a central issue since many carbon-based devices show photoresponse only in special contact area. We did investigation on amorphous carbon field-effect transistor and find the prominent photocurrent properties including large sensitive area and high current gain. 	<ul class="resume-item-list"><li>Paper submitted</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-  summary: How to obtain a wide response area in photodetector has been a central issue since many carbon-based devices show photoresponse only in special contact area. We did investigation on amorphous carbon field-effect transistor and find the prominent photocurrent properties including large sensitive area and high current gain. 	<ul class="resume-item-list"><li>Paper submitted.</li></ul>
+  summary: <ul class="resume-item-list"><li>Fabricated a new photodetector structure, which has large sensitive area and high current gain.</li><li>Paper “Position-sensitive and Centimeter-range Photodetection Observed in Carbon Nano-film Based on Silicon Carbide” was submitted. First author.</li></ul>
+  #How to obtain a wide response area in photodetector has been a central issue since many carbon-based devices show photoresponse only in special contact area. We did investigation on amorphous carbon field-effect transistor and find the prominent photocurrent properties including large sensitive area and high current gain. 	<ul class="resume-item-list"><li>Paper submitted.</li></ul>
 
 # Director of Digital Stratgy
 - company: CUORE Group, Institute of Nuclear and Particle Physics, Shanghai Jiao Tong University
 #  position: Director of Digital Strategy
   duration:  Jun, 2016 &mdash; Present
-  summary: The Cryogenic Underground Laboratory for Rare Events ("CUORE") is an experiment located at the Laboratori Nazionali del Gran Sasso (Italy), which is designed to find neutrinoless double beta decay (0νββ).<ul class="resume-item-list"><li>Analysis Onsite and Detector Operations.</li></ul>
+  summary: The Cryogenic Underground Laboratory for Rare Events ("CUORE") is an experiment located at the Laboratori Nazionali del Gran Sasso (Italy), which is designed to find neutrinoless double beta decay (0νββ).<ul class="resume-item-list"><li>Did analysis on pulse shape discrimination.</li><li>Worked onsite as Analysis shifter and Detector Operations shifter for totally 2 months, assisted the experts.</li></ul>
 
 
 # Communications Coordinator
 - company: PandaX-Ⅲ Group, Institute of Nuclear and Particle Physics, Shanghai Jiao Tong University
 #  position: Communications Coordinator
   duration:   Jun, 2016  &mdash; Present
-  summary: PandaX-Ⅲ is a newly proposed experiment to utilize High Pressure Xenon gaseous TPC to search for neutrinoless double beta decay (0νββ).<ul class="resume-item-list"><li>The laboratory's daily hardware work.</li><li>Sensitivity calculation.</li><li>Paper in preparation.</li></ul>
+  summary: PandaX-Ⅲ is a newly proposed experiment to utilize High Pressure Xenon gaseous TPC to search for neutrinoless double beta decay (0νββ).<ul class="resume-item-list"><li>The laboratory's daily hardware work.</li><li>Use Bayesian method to approximate the sensitivity for 0νββ experiment. Paper in preparation.</li></ul>
 
 
 # Communications Coordinator
 - company: Math and Physics Programme at Hertford College part of the University of Oxford
 #  position: Communications Coordinator
   duration:   Jul, 2017  &mdash; Aug, 2017
-  summary: Courses of quantum computation. I not only learned the knowledge of quantum computing, but also contacted the splendid cultural content.
+  summary: Attended courses of quantum computation for 2 weeks. I not only learned the knowledge of quantum computing, but also contacted the splendid cultural content.
+  #Courses of quantum computation. I not only learned the knowledge of quantum computing, but also contacted the splendid cultural content.
 
 
 # Communications Coordinator
@@ -35,7 +37,8 @@
 
 
 # Communications Coordinator
-- company: Participation in Research Program (IPP), Shanghai Jiao Tong University
+- company: Innovation Practice Plan (IPP) , Shanghai Jiao Tong University
 #  position: Communications Coordinator
   duration:   Apr, 2016  &mdash; Nov, 2017
-  summary: I applied for the 14th SJTU Innovation Practice Plan (IPP), which entitled "research on the physical properties of plasma ionization wave". We succeeded in completing the project and our project concluding report received excellent evaluation.
+  summary: IPP is a research program, our topic is “research on the physical properties of plasma ionization wave”. We succeeded in completing the project and received excellent evaluation in the project concluding report.
+  #I applied for the 14th SJTU Innovation Practice Plan (IPP), which entitled "research on the physical properties of plasma ionization wave". We succeeded in completing the project and our project concluding report received excellent evaluation.
