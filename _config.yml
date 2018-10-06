@@ -1,5 +1,5 @@
 # Site settings
-title: "Yihui Resume"
+title: "YIHUI LAI'S HOMEPAGE"
 description: "A resume for Yihui and GitHub Pages sites."
 
 # Build settings
@@ -23,7 +23,7 @@ resume_contact_address:         "800 Dongchuan Road, Shanghai Minhang"
 resume_header_contact_info:     "800 Dongchuan Road, Shanghai Minhang • (+86) 15821876039 • lyh1997@sjtu.edu.cn"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>My name is Lai Yihui. I am a senior student in the School of Physics and Astronomy, Shanghai Jiao Tong University. I have interest in particle physics.</p>"
+resume_header_intro: "<p>My name is Yihui Lai (赖奕辉), from Shanghai Jiao Tong University. Currently I am a senior student at the International Class, majoring in Physics. My research interests are particle physics.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
