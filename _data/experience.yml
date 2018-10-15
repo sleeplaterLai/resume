@@ -9,7 +9,7 @@
 # Communications Coordinator
 - company: PandaX-Ⅲ Group, Institute of Nuclear and Particle Physics, SJTU
 #  position: Communications Coordinator
-  duration:  06/2016  &mdash; Present
+  duration: Supervisor &#58; Prof. Ke Han &emsp; &emsp; &bull; 06/2016 &mdash; Present
   summary: PandaX-Ⅲ is an experiment using High Pressure Xenon gaseous TPC to search for 0νββ.<ul class="resume-item-list"><li>Installed the field cage of prototype time projection chamber.</li><li>Based on Bayesian approach, built models to simulate sensitivity for 0νββ experiments.</li><li>Wrote Bayesian Analysis Toolkit (BAT) programs to implement the simulation.</li></ul>
 
 
@@ -17,6 +17,6 @@
 # VP of Global Communications
 - company: Nanophotonics Group, Optics Science & Engineering Research Center, SJTU
 #  position: VP of Global Communications
-  duration: 03/2018 &mdash; 08/2018
+  duration: Supervisor &#58; Prof. Hui Wang &emsp; &emsp; &bull; 03/2018 &mdash; 08/2018
   #summary: How to obtain a wide response area in photodetector has been a central issue since many carbon-based devices show photoresponse only in special contact area. We did investigation on amorphous carbon field-effect transistor and find the prominent photocurrent properties including large sensitive area and high current gain. 	<ul class="resume-item-list"><li>Paper submitted</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
   summary: <ul class="resume-item-list"><li>Fabricated carbon Nano-films based on silicon carbide and measured their photoresponse, where I observed position-sensitive and centimeter-range photodetection.</li><li>Proposed an analytical model to explain the position-sensitive and centimeter-range photodetection.</li><li>Simulated and assessed the quality of different structures using FDTD Solutions.</li></ul>
