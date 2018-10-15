@@ -1,14 +1,14 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Library student management committee, Shanghai Jiao Tong University
+- organization: Library student management committee, SJTU
   role: Student librarian
   year: 2015 &mdash; Present
   url: http://xgh.lib.sjtu.edu.cn/home/
   summary: Participate in the daily service of the library for 3 years.
 
 
-- organization: Student' Union of School of Physics and Astronomy, Shanghai Jiao Tong University
+- organization: Student' Union of School of Physics and Astronomy, SJTU
   role: Academic minister
   year: 2016 &mdash; 2017
   #url: http://campuspress.yale.edu/amnesty/
@@ -17,7 +17,7 @@
   #During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
 
 
-- organization: Physics Association, Shanghai Jiao Tong University
+- organization: Physics Association, SJTU
   role: Association chair
   year: 2016 &mdash; 2017
   #url: http://xgh.lib.sjtu.edu.cn/home/
